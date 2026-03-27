@@ -1,4 +1,4 @@
-# Maze Game - Java
+# Labyrinth
 
 A simple Java-based maze game created using **Swing** and **AWT**.  
 Players select a character and navigate through a grid-based maze, avoiding walls and aiming for the exit tile.
